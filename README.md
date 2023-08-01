@@ -18,10 +18,10 @@ Aparte de mi adicción por el código, disfruto relajarme con una chela bien fr�
 
 ## Contacto
 
-- [Sitio web](Enlace a tu sitio web)
+- [Sitio web](https://bryanpp97.github.io/PORTFOLIO/)
 - [LinkedIn](https://www.linkedin.com/in/polito-palma-bryan-antonio-317830202/)
 - [Facebook](https://www.facebook.com/choripanconchoriqueso/)
-- [Correo electrónico](polito.bryan@gmail.com)
+- [polito.bryan@gmail.com]()
 
 ## Estadísticas de GitHub
 
