@@ -1,6 +1,6 @@
 ¡Hey! ¿Qué tal? Soy Bryan Polito, un apasionado de la bioinformática, la ciencia de datos y el desarrollo. Siempre buscando datos y patrones en la información, ¡Oye Parker, estás demente! 😱📊💻
 
-Aparte de mi adicción por el código, disfruto relajarme con una chela bien fría y la compañía de unos lindos perritos 🍻🐶 ¡No hay mejor combinación!
+Aparte de mi adicción por el código, disfruto relajarme con una chela bien fría  🍻
 
 ¿Tienes alguna duda o quieres colaborar en algún proyecto? ¡No dudes en contactarme! Estoy abierto a conocer nuevas personas y participar en nuevos proyectos. 
 
